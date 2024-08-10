@@ -1,6 +1,6 @@
 [![MasterHead](banner.gif)](https://tripathiosho.github.io)
 <h1 align="center">Hi 👋, I'm Osho Tripathi</h1>
-<h3 align="center">I am a seasnoned Robotics Automation Developer and Data Analyst also having knowledge on AI/ML.</h3>
+<h3 align="center">I am a seasnoned Robotics Process Automation Developer and Data Analyst also having working knowledge and expertise on AI/ML, GenAI solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripathiosho&label=Profile%20views&color=0e75b6&style=flat" alt="tripathiosho" /> </p>
 
